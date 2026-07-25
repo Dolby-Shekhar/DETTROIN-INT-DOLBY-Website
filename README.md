@@ -5,7 +5,7 @@
 | Field | Value |
 |---|---|
 | **Full Name** | Dolby Shekhar |
-| **Intern ID** | *[ADD YOUR INTERN ID HERE — check your shortlisting email]* |
+| **Intern ID** | Not yet received — awaiting confirmation from Dettroin |
 | **Email Address** | dolbyshekhar21@gmail.com |
 | **GitHub Username** | [Dolby-Shekhar](https://github.com/Dolby-Shekhar) |
 | **Selected Website** | [Excellence International School](https://excellenceinternationalschool.com/) |
