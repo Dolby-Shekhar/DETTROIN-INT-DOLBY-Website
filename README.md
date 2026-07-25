@@ -9,7 +9,7 @@
 | **Email Address** | dolbyshekhar21@gmail.com |
 | **GitHub Username** | [Dolby-Shekhar](https://github.com/Dolby-Shekhar) |
 | **Selected Website** | [Excellence International School](https://excellenceinternationalschool.com/) |
-| **Live Demo Link** | [Deployed Link](dettroin-int-dolby-website-7vgp9vpnh-dolby2.vercel.app) |
+| **Live Demo Link** | [dettroin-int-dolby-website-7vgp9vpnh-dolby2.vercel.app](dettroin-int-dolby-website-7vgp9vpnh-dolby2.vercel.app) |
 
 ---
 
