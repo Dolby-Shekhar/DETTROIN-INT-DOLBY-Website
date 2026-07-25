@@ -26,9 +26,6 @@
 
 <a href="#main" class="skip-link">Skip to main content</a>
 
-
-<a href="#main" class="skip-link">Skip to main content</a>
-
 <header>
   <div class="wrap nav">
     <a href="#" class="logo">
@@ -349,7 +346,77 @@
     </div>
   </section>
 
-  </main>
+  <!-- CONTACT / CTA -->
+  <section id="contact" aria-label="Contact and enquiry">
+    <div class="cta-section">
+      <div class="cta-grid">
+        <div>
+          <span class="eyebrow">Let's talk</span>
+          <h2>Book a campus visit this week.</h2>
+          <p>See a classroom in session, meet a teacher, and get a straight answer on seat availability for 2026–27.</p>
+          <ul class="contact-list">
+            <li><span class="k">Phone</span><span>+91 70555 82117</span></li>
+            <li><span class="k">Email</span><span>info@excellenceinternationalschool.com</span></li>
+            <li><span class="k">Address</span><span>Ramghat Road, Aligarh 202001, Uttar Pradesh</span></li>
+          </ul>
+        </div>
+        <div class="enquiry-card">
+          <h3>Admission enquiry</h3>
+          <!-- NOTE: this form is a front-end mockup only — it does not submit anywhere.
+               Wire the `submit` handler in js/main.js to a real backend or form service before going live. -->
+          <form id="enquiryForm" novalidate>
+            <div class="field">
+              <label for="pname">Parent's name</label>
+              <input id="pname" type="text" placeholder="Your full name" autocomplete="name" required />
+            </div>
+            <div class="field">
+              <label for="pphone">Phone number</label>
+              <input id="pphone" type="tel" placeholder="10-digit mobile number" autocomplete="tel" required />
+            </div>
+            <div class="field">
+              <label for="pgrade">Grade you're enquiring about</label>
+              <select id="pgrade">
+                <option>Play Group / Nursery / KG</option>
+                <option>Class 1 – 5</option>
+                <option>Class 6 – 8</option>
+                <option>Daycare only</option>
+              </select>
+            </div>
+            <button type="submit" class="btn btn-primary" id="enquiryBtn">Send enquiry</button>
+          </form>
+        </div>
+      </div>
+    </div>
+  </section>
+
+</main>
+
+<footer>
+  <div class="wrap">
+    <div class="footer-grid">
+      <div class="footer-col">
+        <h4>School</h4>
+        <a href="#about">About us</a>
+        <a href="#academics">Academics</a>
+        <a href="#life">Life at school</a>
+      </div>
+      <div class="footer-col">
+        <h4>Admissions</h4>
+        <a href="#contact">Enquiry form</a>
+        <a href="#faq">FAQ</a>
+      </div>
+      <div class="footer-col">
+        <h4>Contact</h4>
+        <a href="tel:+917055582117">+91 70555 82117</a>
+        <span style="display:block; font-size:0.92rem; padding:4px 0;">Ramghat Road, Aligarh 202001</span>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <small>© 2026 Excellence International School, Aligarh.</small>
+      <small>Redesign concept — for assessment purposes only.</small>
+    </div>
+  </div>
+</footer>
 
 <script src="js/main.js" defer></script>
 </body>
